@@ -7,6 +7,9 @@
 🚀 Making videos about Computer Science, tech, productivity and Animation on YouTube<br/>
 💭 Currently learning about data analytics and Robotics!<br/>
 
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![Aahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=godzayn&show_icons=true&theme=radical)
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,8 +38,13 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
                       
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=godzayn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=godzayn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+# 💻 Featured YouTube Videos
+<!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
+<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Thanos Magic!](https://ytcards.demolab.com/?id=f8KAKW9ar54&title=Thanos+Magic!&lang=en&timestamp=1556473524&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "Thanos Magic!")](https://www.youtube.com/watch?v=f8KAKW9ar54&t=1s)
+[![The Mother Part 1](https://ytcards.demolab.com/?id=RC9-40gmuhA&title=The+Mother+Part+1&lang=en&timestamp=1556409678&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=786 "The Mother Part 1")]([https://youtu.be/Dd_4zfmY-aA?si=1AhwiUIamfs6clV3](https://www.youtube.com/watch?v=RC9-40gmuhA))
+[![The Instrumental Battle](https://ytcards.demolab.com/?id=vXcWu-xCU3I&title=The+Instrumental+Battle&lang=en&timestamp=1565132712&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=860 "The Instrumental Battle")](https://www.youtube.com/watch?v=vXcWu-xCU3I)
+[![A Whole New World (Aladdin)|| By Zayn PlayZz](https://ytcards.demolab.com/?id=fyQQLi6psRs&title=A+Whole+New+World+(Aladdin)||+By+Zayn+PlayZz&lang=en&timestamp=1562106774&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=380 "A Whole New World (Aladdin)|| By Zayn PlayZz")](https://www.youtube.com/watch?v=fyQQLi6psRs)
+[![When A Gamer Become A Super Spy](https://ytcards.demolab.com/?id=7dsZ0eEtGk8&title=When+A+Gamer+Become+A+Super+Spy&lang=en&timestamp=1548162870&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=695 "How I would learn to code (if I could start over)")](https://www.youtube.com/watch?v=7dsZ0eEtGk8)
+<!-- END YOUTUBE-CARDS -->
