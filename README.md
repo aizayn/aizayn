@@ -8,7 +8,7 @@
 💭 Currently learning about data analytics and Robotics!<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![Aahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=godzayn&show_icons=true&theme=radical)
+![Aahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=aizayn&show_icons=true&theme=radical)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
